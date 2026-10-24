@@ -1,0 +1,1 @@
+Organizador de informações para Imposto de Renda desenvolvido no Excel para o desafio da DIO. Reúne dados do titular, informes bancários e recebimentos, com menus de navegação, validações de dados, alertas de pendências e resumo mensal e anual.
